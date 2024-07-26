@@ -1,0 +1,1 @@
+const i=JSON.parse('{"key":"v-802f7e32","path":"/docs/misc/buvid3_4.html","title":"获取 buvid3 / buvid4","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"游客获取 buvid3 / buvid4","slug":"游客获取-buvid3-buvid4","link":"#游客获取-buvid3-buvid4","children":[]}],"git":{},"filePathRelative":"docs/misc/buvid3_4.md"}');export{i as data};
